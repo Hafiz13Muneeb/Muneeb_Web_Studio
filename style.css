@@ -172,7 +172,7 @@ header {
 
 .hero {
   padding: 150px 0 100px;
-  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background-color: #8d8d8d;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -543,3 +543,4 @@ footer {
     margin: 5px 0;
   }
 }
+
